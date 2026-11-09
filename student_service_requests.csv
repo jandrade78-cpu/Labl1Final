@@ -1,0 +1,421 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score
+REQ0001,Enrollment,Student,2026-01-13,Email,High,Registrar,1,Yes,1,3,Completed,Yes,2
+REQ0002,Certification,Student,2025-06-03,Portal,Low,Registrar,6,Yes,4,3,Completed,No,2
+REQ0003,Enrollment,Student,2025-06-09,Portal,Low,Registrar,,No,,3,Pending,No,
+REQ0004,Scholarship Inquiry,Student,2025-12-09,Portal,Normal,Scholarship Office,21,No,7,4,Completed,No,3
+REQ0005,Records,Student,2025-08-26,Portal,Normal,Registrar,27,Yes,5,5,Completed,No,
+REQ0006,Clearance,Faculty,2025-10-03,Email,Normal,Student Affairs,15,Yes,4,5,Completed,Yes,
+REQ0007,Enrollment,Student,2025-09-11,Walk-in,Normal,Registrar,4,Yes,3,3,Completed,No,
+REQ0008,Enrollment,Faculty,2025-09-06,Portal,High,Registrar,0,No,3,3,Completed,No,3
+REQ0009,Records,Student,2026-01-12,Portal,Normal,Registrar,27,Yes,,5,Pending,No,
+REQ0010,IT Support,Faculty,2025-06-23,Email,Normal,ICT Office,8,Yes,2,2,Completed,No,1
+REQ0011,Certification,Staff,2025-12-03,Walk-in,Normal,Registrar,3,Yes,,3,Cancelled,No,
+REQ0012,Clearance,Faculty,2025-12-31,Email,Low,Student Affairs,4,Yes,4,5,Completed,No,4
+REQ0013,Scholarship Inquiry,Student,2025-11-05,Portal,Normal,Scholarship Office,7,Yes,5,4,Completed,No,2
+REQ0014,Enrollment,Faculty,2025-09-03,Email,Low,Registrar,18,Yes,3,3,Completed,No,1
+REQ0015,IT Support,Student,2025-07-09,Portal,Normal,ICT Office,24,Yes,4,2,Completed,No,1
+REQ0016,Records,Student,2025-11-11,Walk-in,Low,Registrar,7,No,6,5,Completed,No,
+REQ0017,IT Support,Student,2025-09-21,Portal,High,ICT Office,19,Yes,2,2,Completed,No,
+REQ0018,Records,Student,2025-07-06,Email,Normal,Registrar,1,Yes,3,5,Completed,No,
+REQ0019,Enrollment,Student,2025-08-26,Portal,High,Registrar,0,Yes,1,3,Completed,No,
+REQ0020,Scholarship Inquiry,Student,2026-01-17,Portal,Normal,Scholarship Office,1,Yes,3,4,Completed,No,1
+REQ0021,Scholarship Inquiry,Faculty,2025-08-03,Walk-in,Low,Scholarship Office,25,Yes,6,4,Completed,No,2
+REQ0022,Certification,Student,2025-07-13,Email,High,Registrar,16,Yes,3,3,Completed,No,1
+REQ0023,Clearance,Student,2025-11-11,Portal,Normal,Student Affairs,22,Yes,,5,Cancelled,Yes,
+REQ0024,Clearance,Student,2025-07-18,Walk-in,Normal,Student Affairs,0,Yes,4,5,Completed,No,2
+REQ0025,Enrollment,Student,2026-01-07,Walk-in,Normal,Registrar,0,Yes,3,3,Completed,No,3
+REQ0026,Records,Student,2025-12-24,Portal,Normal,Registrar,23,Yes,4,5,Completed,No,1
+REQ0027,IT Support,Staff,2026-01-23,Portal,High,ICT Office,2,Yes,2,2,Completed,No,5
+REQ0028,Records,Student,2026-01-06,Portal,Normal,Registrar,4,Yes,2,5,Completed,No,
+REQ0029,Records,Student,2025-07-29,Email,Normal,Registrar,14,Yes,,5,Pending,No,
+REQ0030,Scholarship Inquiry,Student,2025-07-21,Portal,Normal,Scholarship Office,16,Yes,7,4,Completed,Yes,
+REQ0031,Scholarship Inquiry,Student,2025-08-22,Portal,Normal,Scholarship Office,6,Yes,4,4,Completed,No,
+REQ0032,Clearance,Faculty,2025-09-21,Walk-in,High,Student Affairs,12,Yes,1,5,Completed,No,4
+REQ0033,Certification,Student,2025-12-29,Walk-in,Normal,Registrar,18,No,4,3,Completed,No,5
+REQ0034,Certification,Student,2025-11-24,Walk-in,Normal,Registrar,12,No,6,3,Completed,No,
+REQ0035,IT Support,Student,2025-11-02,Walk-in,High,ICT Office,10,Yes,2,2,Completed,No,5
+REQ0036,Records,Student,2025-12-28,Email,Normal,Registrar,2,Yes,3,5,Completed,No,3
+REQ0037,Records,Staff,2025-11-03,Email,Normal,Registrar,12,Yes,5,5,Completed,No,3
+REQ0038,IT Support,Student,2025-08-30,Email,Normal,ICT Office,22,Yes,3,2,Completed,No,
+REQ0039,Records,Faculty,2025-09-08,Portal,Low,Registrar,17,Yes,6,5,Completed,No,
+REQ0040,Scholarship Inquiry,Student,2025-10-03,Portal,Normal,Scholarship Office,25,No,8,4,Completed,No,5
+REQ0041,Certification,Student,2025-06-22,Portal,Low,Registrar,3,No,,3,Pending,No,
+REQ0042,Enrollment,Student,2025-11-26,Email,Low,Registrar,0,Yes,2,3,Completed,No,1
+REQ0043,Scholarship Inquiry,Staff,2025-11-04,Portal,Normal,Scholarship Office,15,Yes,5,4,Completed,Yes,3
+REQ0044,Certification,Student,2025-11-23,Portal,Normal,Registrar,5,No,3,3,Completed,No,4
+REQ0045,Enrollment,Student,2025-10-07,Email,High,Registrar,16,Yes,1,3,Completed,No,2
+REQ0046,Enrollment,Student,2025-12-05,Portal,Normal,Registrar,25,No,7,3,Completed,No,
+REQ0047,Certification,Student,2026-01-14,Portal,Low,Registrar,9,Yes,3,3,Completed,No,4
+REQ0048,Certification,Staff,2025-10-15,Walk-in,High,Registrar,15,No,,3,Cancelled,Yes,
+REQ0049,Scholarship Inquiry,Student,2025-09-15,Walk-in,Low,Scholarship Office,19,Yes,5,4,Completed,No,3
+REQ0050,Records,Student,2025-06-26,Portal,Low,Registrar,4,Yes,,5,Pending,No,
+REQ0051,Records,Student,2025-12-04,Portal,Normal,Registrar,25,Yes,6,5,Completed,No,
+REQ0052,Records,Student,2026-01-03,Portal,Normal,Registrar,5,Yes,5,5,Completed,No,
+REQ0053,Enrollment,Student,2025-11-15,Email,High,Registrar,22,Yes,3,3,Completed,No,
+REQ0054,Scholarship Inquiry,Student,2025-12-25,Walk-in,Normal,Scholarship Office,18,Yes,3,4,Completed,No,
+REQ0055,Scholarship Inquiry,Student,2025-12-24,Portal,Normal,Scholarship Office,3,Yes,,4,Completed,No,3
+REQ0056,Enrollment,Student,2025-12-09,Email,Low,Registrar,20,No,6,3,Completed,No,
+REQ0057,IT Support,Student,2025-09-29,Portal,Normal,ICT Office,5,Yes,1,2,Completed,No,
+REQ0058,IT Support,Student,2025-06-24,Portal,High,ICT Office,16,Yes,1,2,Completed,No,4
+REQ0059,Records,Student,2025-06-01,Walk-in,Low,Registrar,26,Yes,9,5,Completed,No,4
+REQ0060,Records,Student,2025-07-20,Portal,High,Registrar,26,Yes,6,5,Completed,No,4
+REQ0061,Scholarship Inquiry,Student,2025-09-12,Portal,Normal,Scholarship Office,24,Yes,,4,Pending,No,
+REQ0062,IT Support,Student,2025-11-26,Portal,Low,ICT Office,13,Yes,1,2,Completed,No,5
+REQ0063,IT Support,Student,2025-09-18,Email,Normal,ICT Office,15,Yes,3,2,Completed,No,1
+REQ0064,Enrollment,Student,2025-06-06,Walk-in,Normal,Registrar,8,,2,3,Completed,No,
+REQ0065,Scholarship Inquiry,Student,2025-07-21,Walk-in,Low,Scholarship Office,25,No,9,4,Completed,No,3
+REQ0066,IT Support,Student,2026-01-22,Portal,Normal,ICT Office,13,Yes,,2,Cancelled,No,
+REQ0067,IT Support,Student,2026-01-24,Portal,Normal,ICT Office,21,No,3,2,Completed,No,3
+REQ0068,Certification,Student,2025-08-30,Email,Normal,Registrar,10,Yes,3,3,Completed,Yes,
+REQ0069,Records,Student,2025-12-11,Portal,High,Registrar,20,Yes,4,5,Completed,No,3
+REQ0070,Certification,Student,2025-11-20,Walk-in,Normal,Registrar,6,Yes,4,3,Completed,No,2
+REQ0071,Records,Student,2026-01-10,Email,High,Registrar,20,Yes,3,5,Completed,No,3
+REQ0072,Certification,Student,2025-12-31,Portal,Low,Registrar,1,Yes,1,3,Completed,Yes,
+REQ0073,Enrollment,Student,2025-10-29,Walk-in,Normal,Registrar,2,Yes,3,3,Completed,No,2
+REQ0074,Records,Student,2025-09-03,Portal,Low,Registrar,9,Yes,5,5,Completed,No,
+REQ0075,Records,Faculty,2025-10-29,Portal,Normal,Registrar,13,Yes,5,5,Completed,No,5
+REQ0076,IT Support,Student,2025-08-16,Email,Normal,Registrar,19,Yes,3,3,Completed,No,1
+REQ0077,Certification,Student,2025-08-23,Portal,Low,Registrar,10,Yes,,3,Pending,No,
+REQ0078,Scholarship Inquiry,Student,2025-10-25,Email,High,Scholarship Office,0,No,6,4,Completed,No,
+REQ0079,IT Support,Student,2025-10-16,Email,Normal,ICT Office,9,Yes,2,2,Completed,No,2
+REQ0080,Enrollment,Student,2025-10-18,Walk-in,Normal,Registrar,12,No,4,3,Completed,No,2
+REQ0081,Scholarship Inquiry,Student,2025-09-01,Walk-in,Low,Scholarship Office,15,Yes,5,4,Completed,No,2
+REQ0082,Certification,Faculty,2025-09-07,Portal,Normal,Registrar,18,No,7,3,Completed,Yes,1
+REQ0083,Enrollment,Staff,2025-06-03,Portal,Normal,Registrar,6,No,1,3,Completed,Yes,1
+REQ0084,Records,Student,2025-10-23,Email,Normal,Registrar,17,Yes,,5,Cancelled,No,
+REQ0085,Records,Student,2025-10-17,Walk-in,Low,Registrar,17,Yes,3,5,Completed,No,3
+REQ0086,Records,Faculty,2026-01-11,Portal,Normal,Registrar,21,Yes,5,5,Completed,No,3
+REQ0087,Scholarship Inquiry,Student,2025-09-30,Portal,High,Scholarship Office,14,No,5,4,Completed,No,
+REQ0088,IT Support,Faculty,2025-09-21,Portal,Normal,ICT Office,22,Yes,1,2,Completed,Yes,5
+REQ0089,Records,Student,2025-06-17,Portal,Normal,Registrar,6,Yes,4,5,Completed,No,4
+REQ0090,IT Support,Student,2025-07-18,Email,High,ICT Office,19,No,2,2,Completed,No,
+REQ0091,Records,Student,2025-08-21,Portal,High,Registrar,1,Yes,,5,Cancelled,No,
+REQ0092,Scholarship Inquiry,Faculty,2025-08-30,Email,Normal,Scholarship Office,2,Yes,4,4,Completed,Yes,
+REQ0093,IT Support,Student,2025-08-27,Walk-in,High,ICT Office,24,Yes,4,2,Completed,No,3
+REQ0094,Certification,Student,2025-09-03,Walk-in,High,Registrar,13,Yes,4,3,Completed,No,
+REQ0095,Certification,Student,2025-12-02,Portal,Normal,Registrar,17,Yes,,3,Cancelled,No,
+REQ0096,IT Support,Student,2025-07-02,Portal,Normal,Scholarship Office,16,No,6,4,Completed,No,
+REQ0097,Certification,Student,2025-08-19,Email,Low,Registrar,19,Yes,5,3,Completed,No,
+REQ0098,Records,Student,2025-07-10,Walk-in,Low,Registrar,6,Yes,,5,Pending,No,
+REQ0099,Records,Student,2025-08-13,Portal,Normal,Registrar,4,Yes,5,5,Completed,No,3
+REQ0100,Clearance,Faculty,2025-11-12,Walk-in,High,Student Affairs,,Yes,,5,Pending,No,
+REQ0101,IT Support,Faculty,2025-06-12,Portal,Normal,Student Affairs,24,Yes,6,5,Completed,No,
+REQ0102,Scholarship Inquiry,Student,2025-08-21,Walk-in,Normal,Scholarship Office,6,No,7,4,Completed,No,5
+REQ0103,Certification,Student,2025-06-06,Portal,Normal,Registrar,16,No,2,3,Completed,No,3
+REQ0104,Clearance,Student,2026-01-16,Portal,High,Student Affairs,12,Yes,4,5,Completed,No,
+REQ0105,Enrollment,Student,2025-11-22,Portal,Low,Registrar,4,Yes,5,3,Completed,No,
+REQ0106,Scholarship Inquiry,Student,2025-07-29,Portal,Low,Scholarship Office,11,Yes,5,4,Completed,No,5
+REQ0107,IT Support,Staff,2025-07-18,Portal,Normal,ICT Office,2,Yes,3,2,Completed,No,5
+REQ0108,Certification,Staff,2025-06-24,Portal,High,Registrar,4,Yes,2,3,Completed,No,4
+REQ0109,Records,Faculty,2025-09-22,Portal,High,Registrar,3,Yes,2,5,Completed,No,4
+REQ0110,Clearance,Student,2025-11-28,Email,High,Student Affairs,23,Yes,5,5,Completed,No,3
+REQ0111,IT Support,Student,2025-10-19,Portal,High,ICT Office,15,No,1,2,Completed,No,
+REQ0112,Records,Student,2025-12-29,Email,Normal,Registrar,25,Yes,4,5,Completed,No,
+REQ0113,Certification,Student,2025-08-22,Walk-in,Normal,Registrar,12,No,,3,Pending,No,
+REQ0114,IT Support,Student,2025-08-06,Portal,Normal,ICT Office,5,Yes,3,2,Completed,No,5
+REQ0115,Records,Student,2025-09-23,Portal,Normal,Registrar,17,No,6,5,Completed,No,
+REQ0116,Enrollment,Student,2025-07-19,Walk-in,High,Registrar,26,Yes,4,3,Completed,No,
+REQ0117,Scholarship Inquiry,Student,2026-01-21,Walk-in,Normal,Scholarship Office,14,Yes,5,4,Completed,No,
+REQ0118,Scholarship Inquiry,Student,2025-07-15,Portal,Normal,Scholarship Office,0,No,5,4,Completed,No,4
+REQ0119,Certification,Student,2025-09-23,Walk-in,Normal,Registrar,8,No,5,3,Completed,No,
+REQ0120,Scholarship Inquiry,Faculty,2025-10-04,Portal,Low,Scholarship Office,25,Yes,6,4,Completed,No,5
+REQ0121,IT Support,Staff,2025-06-14,Portal,Low,ICT Office,14,Yes,,2,Cancelled,Yes,
+REQ0122,Scholarship Inquiry,Student,2025-09-21,Email,Low,Scholarship Office,26,Yes,7,4,Completed,No,
+REQ0123,Records,Faculty,2025-09-18,Portal,High,Registrar,14,Yes,4,5,Completed,No,1
+REQ0124,Certification,Staff,2025-08-02,Email,Normal,Registrar,0,Yes,,3,Pending,No,
+REQ0125,Records,Student,2025-07-01,Portal,High,Registrar,24,No,,5,Pending,No,
+REQ0126,IT Support,Student,2025-06-11,Email,Normal,ICT Office,21,Yes,5,2,Completed,No,5
+REQ0127,Certification,Student,2025-06-03,Portal,Low,Registrar,20,Yes,4,3,Completed,No,1
+REQ0128,Records,Student,2025-09-24,Portal,Low,Registrar,27,Yes,7,5,Completed,No,
+REQ0129,Records,Faculty,2025-06-22,Portal,High,Registrar,5,Yes,1,5,Completed,No,5
+REQ0130,IT Support,Student,2026-01-17,Portal,Normal,ICT Office,25,Yes,1,2,Completed,No,1
+REQ0131,Records,Student,2025-07-29,Email,High,Registrar,,Yes,4,5,Completed,No,
+REQ0132,Clearance,Student,2025-11-04,Portal,Low,Student Affairs,27,Yes,6,5,Completed,Yes,3
+REQ0133,IT Support,Student,2025-11-09,Portal,Normal,ICT Office,5,Yes,1,2,Completed,No,
+REQ0134,Certification,Staff,2025-09-27,Portal,High,Registrar,15,No,5,3,Completed,No,5
+REQ0135,IT Support,Student,2025-12-30,Portal,Low,ICT Office,22,Yes,1,2,Completed,No,5
+REQ0136,Records,Student,2025-06-27,Walk-in,Normal,Registrar,2,No,8,5,Completed,No,2
+REQ0137,Clearance,Student,2025-07-27,Portal,High,Student Affairs,1,Yes,2,5,Completed,No,
+REQ0138,IT Support,Student,2025-07-31,Walk-in,Normal,ICT Office,23,Yes,3,2,Completed,No,4
+REQ0139,Enrollment,Student,2025-07-03,Portal,Normal,Registrar,1,Yes,,3,Pending,No,
+REQ0140,Records,Student,2025-08-10,Email,Normal,Registrar,17,Yes,,5,Pending,No,
+REQ0141,IT Support,Student,2025-08-15,Portal,Normal,ICT Office,26,Yes,,2,Pending,No,
+REQ0142,IT Support,Student,2025-12-01,Portal,Normal,ICT Office,17,Yes,,2,Pending,No,
+REQ0143,Clearance,Faculty,2025-08-12,Walk-in,Normal,Student Affairs,13,Yes,,5,Cancelled,No,
+REQ0144,IT Support,Student,2025-12-28,Walk-in,Normal,ICT Office,11,Yes,1,2,Completed,No,4
+REQ0145,IT Support,Student,2025-12-03,Walk-in,High,ICT Office,17,Yes,1,2,Completed,No,4
+REQ0146,Certification,Student,2026-01-03,Portal,Low,Registrar,16,Yes,4,3,Completed,No,1
+REQ0147,Certification,Faculty,2025-06-26,Portal,Low,Registrar,14,Yes,2,3,Completed,No,
+REQ0148,IT Support,Student,2026-01-23,Email,Normal,ICT Office,4,Yes,1,2,Completed,No,5
+REQ0149,Certification,Student,2025-10-26,Portal,High,Registrar,18,Yes,1,3,Completed,No,5
+REQ0150,Records,Student,2026-01-22,Email,Low,Registrar,20,Yes,,5,Cancelled,No,
+REQ0151,Enrollment,Student,2025-08-25,Email,Low,Registrar,19,Yes,3,3,Completed,No,5
+REQ0152,Clearance,Faculty,2026-01-15,Email,Normal,Student Affairs,2,Yes,,5,Cancelled,No,
+REQ0153,Records,Student,2025-10-20,Walk-in,High,Registrar,19,Yes,4,5,Completed,No,
+REQ0154,IT Support,Faculty,2025-06-18,Email,Low,ICT Office,20,Yes,4,2,Completed,No,2
+REQ0155,Records,Faculty,2025-09-07,Portal,Normal,Registrar,5,No,5,5,Completed,No,
+REQ0156,Scholarship Inquiry,Student,2025-07-04,Portal,Normal,Scholarship Office,23,Yes,4,4,Completed,No,5
+REQ0157,Certification,Staff,2026-01-12,Email,Normal,Registrar,14,No,6,3,Completed,No,5
+REQ0158,Scholarship Inquiry,Student,2025-08-13,Portal,Low,Scholarship Office,13,Yes,4,4,Completed,No,
+REQ0159,Scholarship Inquiry,Faculty,2025-07-24,Portal,Low,Scholarship Office,20,Yes,,4,Cancelled,No,
+REQ0160,Enrollment,Student,,Portal,Normal,Registrar,14,Yes,2,3,Completed,Yes,1
+REQ0161,Records,Student,2025-09-11,Email,Normal,Registrar,,Yes,6,5,Completed,Yes,
+REQ0162,Clearance,Student,2025-06-24,Walk-in,High,Student Affairs,8,No,8,5,Completed,No,
+REQ0163,Records,Student,2025-12-13,Email,Normal,Registrar,25,Yes,5,5,Completed,No,
+REQ0164,Records,Student,2025-12-20,Portal,Normal,Registrar,27,Yes,6,5,Completed,No,1
+REQ0165,IT Support,Staff,2025-11-26,Portal,High,ICT Office,3,Yes,1,2,Completed,No,4
+REQ0166,Certification,Student,2025-10-27,Portal,Normal,Registrar,20,Yes,2,3,Completed,No,
+REQ0167,Enrollment,Student,2025-09-05,Portal,Normal,Registrar,0,Yes,2,3,Completed,No,
+REQ0168,Enrollment,Student,2025-10-09,Email,High,Registrar,10,Yes,2,3,Completed,No,5
+REQ0169,Certification,Student,2025-10-04,Email,Low,Registrar,27,Yes,5,3,Completed,No,3
+REQ0170,Clearance,Student,2025-07-10,Portal,Normal,Student Affairs,4,No,7,5,Completed,No,3
+REQ0171,Certification,Staff,2025-06-20,Portal,Normal,Registrar,10,Yes,2,3,Completed,No,2
+REQ0172,IT Support,Student,2025-07-31,Portal,Low,ICT Office,6,Yes,1,2,Completed,No,
+REQ0173,Certification,Student,2025-09-18,Walk-in,Normal,Registrar,20,Yes,4,3,Completed,No,1
+REQ0174,Clearance,Student,2025-07-09,Email,Low,Student Affairs,12,No,6,5,Completed,No,3
+REQ0175,Records,Student,2025-06-26,Portal,Low,Registrar,16,No,8,5,Completed,No,5
+REQ0176,Records,Student,2025-12-22,Walk-in,Normal,Registrar,26,Yes,6,5,Completed,No,3
+REQ0177,Certification,Student,2025-08-29,Portal,Normal,Registrar,14,Yes,1,3,Completed,No,2
+REQ0178,Clearance,Student,2025-10-19,Portal,Normal,Student Affairs,20,Yes,4,5,Completed,No,4
+REQ0179,Clearance,Staff,2025-10-04,Walk-in,High,Student Affairs,2,No,,5,Cancelled,No,
+REQ0180,Scholarship Inquiry,Student,2025-11-24,Portal,High,Scholarship Office,6,Yes,3,4,Completed,No,
+REQ0181,Clearance,Student,2025-11-25,Portal,Normal,Student Affairs,26,Yes,,5,Pending,No,
+REQ0182,Clearance,Faculty,2025-08-11,Email,Normal,Student Affairs,24,Yes,5,5,Completed,No,4
+REQ0183,IT Support,Staff,2025-12-21,Portal,Normal,ICT Office,18,Yes,2,2,Completed,No,1
+REQ0184,Certification,Student,2025-08-29,Email,Low,Registrar,10,Yes,5,3,Completed,No,5
+REQ0185,Enrollment,Staff,2025-12-18,Portal,High,Registrar,5,Yes,1,3,Completed,No,2
+REQ0186,Scholarship Inquiry,Faculty,2025-09-06,Portal,Normal,Scholarship Office,23,Yes,,4,Pending,No,
+REQ0187,Certification,Faculty,2025-06-27,Portal,Low,Registrar,21,No,6,3,Completed,No,4
+REQ0188,Records,Student,2025-11-30,Portal,High,Registrar,6,Yes,2,5,Completed,No,1
+REQ0189,Scholarship Inquiry,Student,2025-06-08,Portal,Normal,Scholarship Office,16,Yes,4,4,Completed,No,
+REQ0190,Certification,Student,2025-12-03,Portal,Low,Registrar,17,Yes,2,3,Completed,No,1
+REQ0191,Clearance,Student,2025-06-11,Walk-in,Low,Student Affairs,13,No,8,5,Completed,No,2
+REQ0192,Certification,Student,2025-07-20,Portal,Normal,Registrar,25,Yes,,3,Cancelled,No,
+REQ0193,Records,Staff,2025-10-23,Portal,Normal,Registrar,3,Yes,3,5,Completed,No,1
+REQ0194,Enrollment,Staff,2026-01-12,Portal,Low,Registrar,7,Yes,,3,Pending,No,
+REQ0195,Records,Student,2025-09-07,Portal,High,Registrar,2,Yes,1,5,Completed,No,4
+REQ0196,Records,Student,2025-06-29,Portal,High,Registrar,19,Yes,3,5,Completed,No,5
+REQ0197,IT Support,Student,2025-07-26,Email,High,ICT Office,18,Yes,1,2,Completed,No,1
+REQ0198,Enrollment,Student,2026-01-02,Portal,Low,Registrar,27,Yes,,3,Pending,No,
+REQ0199,Records,Student,2025-11-22,Walk-in,Low,Registrar,15,Yes,5,5,Completed,No,
+REQ0200,Certification,Student,2025-06-25,Walk-in,High,Registrar,4,Yes,2,3,Completed,No,
+REQ0201,Enrollment,Faculty,2025-09-01,Portal,Normal,Registrar,12,No,3,3,Completed,No,5
+REQ0202,Clearance,Student,2025-08-03,Portal,Normal,Student Affairs,2,Yes,3,5,Completed,No,4
+REQ0203,IT Support,Staff,2025-07-13,Portal,Normal,ICT Office,18,Yes,2,2,Completed,No,2
+REQ0204,Records,Student,2025-12-21,Email,Low,Registrar,18,Yes,4,5,Completed,No,2
+REQ0205,Records,Staff,2025-10-27,Portal,Normal,Registrar,24,Yes,6,5,Completed,No,4
+REQ0206,Records,Student,,Walk-in,High,Registrar,9,Yes,5,5,Completed,No,5
+REQ0207,Records,Faculty,2025-11-04,Email,Normal,Registrar,8,Yes,3,5,Completed,No,2
+REQ0208,Scholarship Inquiry,Student,,Walk-in,Normal,Scholarship Office,1,Yes,,4,Pending,No,
+REQ0209,Records,Student,2025-06-15,Portal,High,Registrar,11,Yes,3,5,Completed,No,3
+REQ0210,IT Support,Faculty,2025-09-16,Walk-in,Normal,ICT Office,13,No,,2,Cancelled,No,
+REQ0211,Scholarship Inquiry,Staff,2025-07-15,Portal,Normal,Scholarship Office,21,No,,4,Cancelled,No,
+REQ0212,IT Support,Faculty,2025-07-29,Portal,High,ICT Office,21,Yes,2,2,Completed,No,
+REQ0213,Records,Student,2025-12-28,Portal,Normal,Registrar,3,Yes,1,5,Completed,No,5
+REQ0214,Enrollment,Student,2025-11-18,Walk-in,Normal,Registrar,7,Yes,3,3,Completed,No,4
+REQ0215,IT Support,Student,2025-07-03,Email,Low,Scholarship Office,14,Yes,6,4,Completed,No,1
+REQ0216,Scholarship Inquiry,Student,2025-12-22,Walk-in,Low,Scholarship Office,9,Yes,4,4,Completed,No,5
+REQ0217,Records,Student,2025-10-16,Portal,Normal,Registrar,0,Yes,4,5,Completed,No,4
+REQ0218,Records,Student,2025-12-27,Walk-in,Normal,Registrar,23,Yes,5,5,Completed,No,2
+REQ0219,Clearance,Faculty,2025-11-27,Portal,Normal,Student Affairs,20,Yes,3,5,Completed,No,
+REQ0220,Certification,Faculty,2025-08-21,Portal,Normal,Registrar,14,No,,3,Cancelled,No,
+REQ0221,Certification,Student,2025-10-07,Walk-in,Normal,Registrar,8,Yes,1,3,Completed,No,5
+REQ0222,IT Support,Faculty,2025-10-06,Portal,High,ICT Office,23,Yes,1,2,Completed,No,
+REQ0223,Scholarship Inquiry,Student,2025-11-20,Portal,Low,Scholarship Office,0,Yes,,4,Cancelled,No,
+REQ0224,Clearance,Student,2025-07-30,Email,Normal,Student Affairs,12,Yes,2,5,Completed,Yes,4
+REQ0225,Certification,Student,2025-08-19,Portal,Normal,Registrar,22,Yes,2,3,Completed,No,4
+REQ0226,Clearance,Faculty,2025-07-29,Portal,Normal,Student Affairs,26,No,,5,Pending,No,
+REQ0227,Records,Student,2025-08-11,Portal,Low,Registrar,7,Yes,4,5,Completed,No,5
+REQ0228,IT Support,Student,2025-07-09,Portal,Normal,ICT Office,18,Yes,1,2,Completed,No,2
+REQ0229,Scholarship Inquiry,Student,2025-06-09,Walk-in,High,Scholarship Office,5,Yes,5,4,Completed,No,
+REQ0230,Records,Student,2026-01-12,Email,Normal,Registrar,3,Yes,,5,Cancelled,No,
+REQ0231,Records,Student,2025-06-18,Portal,High,Registrar,9,Yes,3,5,Completed,No,2
+REQ0232,Certification,Faculty,2025-12-31,Portal,High,Registrar,24,Yes,3,3,Completed,No,1
+REQ0233,Clearance,Student,2025-06-01,Portal,Normal,Student Affairs,19,No,8,5,Completed,No,
+REQ0234,IT Support,Student,2025-12-04,Email,Normal,ICT Office,13,Yes,1,2,Completed,No,
+REQ0235,Clearance,Faculty,2025-08-18,Walk-in,Normal,Student Affairs,7,Yes,5,5,Completed,Yes,
+REQ0236,Enrollment,Student,2025-10-03,Walk-in,High,Registrar,,,1,3,Completed,No,
+REQ0237,IT Support,Faculty,2025-08-07,Portal,Low,ICT Office,7,No,,2,Pending,No,
+REQ0238,Enrollment,Student,2025-09-26,Portal,High,Registrar,,Yes,3,3,Completed,No,5
+REQ0239,Records,Student,2025-09-17,Portal,High,Registrar,5,Yes,3,5,Completed,No,
+REQ0240,Records,Student,2025-10-06,Email,Normal,Registrar,19,Yes,5,5,Completed,No,1
+REQ0241,Enrollment,Student,2025-09-03,Portal,Normal,Registrar,3,Yes,2,3,Completed,No,4
+REQ0242,Enrollment,Faculty,2025-10-07,Email,Normal,Registrar,1,Yes,1,3,Completed,No,
+REQ0243,Records,Student,2025-12-16,Email,High,Registrar,15,Yes,4,5,Completed,No,2
+REQ0244,IT Support,Student,2025-09-13,Portal,High,ICT Office,8,Yes,1,2,Completed,No,1
+REQ0245,IT Support,Student,2025-08-26,Portal,Normal,ICT Office,12,Yes,2,2,Completed,No,5
+REQ0246,Enrollment,Student,2025-07-02,Portal,Normal,Registrar,3,Yes,3,3,Completed,No,3
+REQ0247,IT Support,Faculty,2025-08-26,Portal,Normal,ICT Office,5,No,2,2,Completed,No,
+REQ0248,Certification,Staff,2025-07-01,Portal,Normal,Registrar,12,No,3,3,Completed,No,5
+REQ0249,Certification,Student,2025-07-14,Email,Normal,Registrar,19,Yes,,3,Cancelled,No,
+REQ0250,Certification,Student,2026-01-15,Portal,High,Registrar,11,Yes,2,3,Completed,No,1
+REQ0251,Scholarship Inquiry,Student,2025-06-22,Portal,Low,Scholarship Office,15,Yes,,4,Cancelled,No,
+REQ0252,Enrollment,Student,2025-09-24,Email,Low,Registrar,14,No,,3,Pending,No,
+REQ0253,IT Support,Staff,2025-12-18,Email,Normal,ICT Office,7,Yes,3,2,Completed,No,
+REQ0254,Certification,Student,2026-01-15,Portal,Normal,Registrar,7,Yes,,3,Cancelled,No,
+REQ0255,Records,Student,2025-07-06,Walk-in,Normal,Registrar,11,Yes,5,5,Completed,No,4
+REQ0256,Scholarship Inquiry,Student,2025-07-10,Walk-in,Low,Scholarship Office,0,Yes,5,4,Completed,No,3
+REQ0257,IT Support,Staff,2025-08-29,Email,Normal,Registrar,19,Yes,1,3,Completed,No,3
+REQ0258,Records,Student,2025-10-12,Email,High,Registrar,17,Yes,4,5,Completed,No,5
+REQ0259,Records,Student,2026-01-17,Portal,Low,Registrar,8,No,5,5,Completed,No,
+REQ0260,IT Support,Student,2025-07-20,Walk-in,Normal,ICT Office,10,Yes,1,2,Completed,No,
+REQ0261,Records,Student,2025-07-10,Portal,High,Registrar,9,No,4,5,Completed,No,
+REQ0262,Enrollment,Student,2025-07-31,Walk-in,Low,Registrar,18,Yes,3,3,Completed,No,1
+REQ0263,Certification,Student,2025-12-27,Email,Normal,Registrar,21,Yes,5,3,Completed,No,4
+REQ0264,Records,Student,2025-06-08,Portal,Normal,Registrar,3,No,4,5,Completed,No,
+REQ0265,Clearance,Student,2025-08-31,Portal,High,Student Affairs,11,Yes,2,5,Completed,Yes,
+REQ0266,Records,Student,2025-06-29,Email,Normal,Registrar,0,Yes,1,5,Completed,No,2
+REQ0267,Certification,Student,2025-07-08,Email,High,Registrar,12,Yes,4,3,Completed,No,
+REQ0268,IT Support,Staff,2026-01-07,Portal,Low,Registrar,6,Yes,3,5,Completed,No,4
+REQ0269,Records,Faculty,2025-06-01,Email,Normal,Registrar,9,Yes,4,5,Completed,No,
+REQ0270,Records,Student,2025-08-17,Walk-in,Normal,Registrar,12,Yes,4,5,Completed,No,
+REQ0271,Records,Student,2026-01-06,Portal,Low,Registrar,9,Yes,3,5,Completed,Yes,
+REQ0272,Records,Faculty,2025-10-24,Portal,Low,Registrar,11,Yes,4,5,Completed,No,4
+REQ0273,Records,Student,2025-06-18,Portal,Low,Registrar,21,Yes,8,5,Completed,No,3
+REQ0274,IT Support,Student,2025-09-20,Email,High,ICT Office,22,Yes,3,2,Completed,Yes,5
+REQ0275,Scholarship Inquiry,Staff,2026-01-20,Portal,Normal,Scholarship Office,0,Yes,2,4,Completed,No,
+REQ0276,Certification,Student,2025-09-05,Walk-in,Normal,Registrar,10,Yes,4,3,Completed,No,3
+REQ0277,Certification,Student,2025-10-05,Portal,Normal,Registrar,23,No,4,3,Completed,No,
+REQ0278,IT Support,Student,2025-10-06,Email,Normal,ICT Office,14,Yes,1,2,Completed,No,
+REQ0279,Enrollment,Student,2025-11-06,Portal,Normal,Registrar,5,Yes,3,3,Completed,No,3
+REQ0280,Enrollment,Student,2025-07-15,Portal,Normal,Registrar,16,Yes,4,3,Completed,No,1
+REQ0281,Records,Student,2025-12-19,Email,Normal,Registrar,4,No,7,5,Completed,No,
+REQ0282,Records,Student,2026-01-24,Portal,Low,Registrar,0,Yes,2,5,Completed,No,1
+REQ0283,Records,Student,2025-07-05,Portal,High,Registrar,17,,3,5,Completed,No,4
+REQ0284,Certification,Faculty,2025-12-14,Walk-in,High,Registrar,14,Yes,3,3,Completed,No,4
+REQ0285,IT Support,Student,2025-12-14,Walk-in,Normal,ICT Office,21,Yes,3,2,Completed,No,3
+REQ0286,Certification,Student,2025-11-25,Walk-in,Normal,Registrar,9,Yes,,3,Cancelled,No,
+REQ0287,Records,Faculty,2025-08-29,Portal,Low,Registrar,23,No,6,5,Completed,No,3
+REQ0288,Certification,Faculty,2025-09-21,Email,High,Registrar,11,Yes,2,3,Completed,No,5
+REQ0289,IT Support,Student,2025-12-19,Walk-in,High,ICT Office,20,Yes,3,2,Completed,Yes,2
+REQ0290,Records,Student,2025-07-07,Portal,High,Registrar,2,Yes,,5,Pending,No,
+REQ0291,Enrollment,Staff,2025-12-16,Portal,Normal,Registrar,2,Yes,3,3,Completed,No,5
+REQ0292,Records,Student,2026-01-07,Walk-in,Low,Registrar,21,Yes,,5,Pending,No,
+REQ0293,Clearance,Faculty,2025-11-11,Portal,Low,Student Affairs,23,Yes,6,5,Completed,No,3
+REQ0294,Records,Staff,2025-08-21,Email,Low,Registrar,26,Yes,7,5,Completed,No,2
+REQ0295,Enrollment,Faculty,2025-10-13,Walk-in,Low,Registrar,9,Yes,2,3,Completed,No,
+REQ0296,Clearance,Student,2025-06-13,Email,Low,Student Affairs,0,No,3,5,Completed,No,3
+REQ0297,Clearance,Student,2026-01-10,Portal,High,Student Affairs,27,Yes,4,5,Completed,No,
+REQ0298,Enrollment,Student,2025-08-22,Portal,Low,Registrar,16,Yes,,3,Pending,No,
+REQ0299,Enrollment,Student,2025-06-14,Portal,Low,Registrar,6,Yes,2,3,Completed,No,4
+REQ0300,Scholarship Inquiry,Staff,2025-12-08,Portal,High,Scholarship Office,21,Yes,,4,Cancelled,No,
+REQ0301,Enrollment,Student,2025-11-05,Email,Normal,Registrar,25,Yes,1,3,Completed,No,
+REQ0302,Records,Student,2025-10-28,Walk-in,Normal,Registrar,7,Yes,7,5,Completed,No,
+REQ0303,IT Support,Student,2025-06-13,Portal,Normal,ICT Office,21,Yes,3,2,Completed,No,5
+REQ0304,IT Support,Staff,2025-11-28,Portal,High,ICT Office,22,No,4,2,Completed,No,4
+REQ0305,Enrollment,Student,2025-10-31,Walk-in,Normal,Registrar,14,No,6,3,Completed,No,5
+REQ0306,IT Support,Student,2025-12-08,Portal,Normal,ICT Office,17,Yes,3,2,Completed,No,5
+REQ0307,Certification,Student,2025-12-16,Portal,Normal,Registrar,7,Yes,,3,Completed,No,
+REQ0308,Scholarship Inquiry,Student,2025-07-21,Portal,Normal,Scholarship Office,26,Yes,5,4,Completed,No,
+REQ0309,Certification,Student,2025-07-21,Email,Normal,Registrar,27,Yes,3,3,Completed,Yes,
+REQ0310,Records,Student,2026-01-08,Portal,Normal,Registrar,27,No,11,5,Completed,No,1
+REQ0311,IT Support,Student,2025-10-06,Email,Low,ICT Office,20,Yes,3,2,Completed,No,
+REQ0312,Certification,Student,2025-09-14,Portal,Normal,Registrar,1,No,3,3,Completed,No,3
+REQ0313,Records,Student,2025-08-08,Email,Normal,Registrar,10,Yes,5,5,Completed,No,4
+REQ0314,Certification,Student,2025-11-01,Portal,Low,Registrar,12,Yes,1,3,Completed,No,
+REQ0315,Certification,Student,2025-11-28,Portal,Low,Registrar,26,Yes,5,3,Completed,No,3
+REQ0316,Certification,Student,2025-06-01,Portal,High,Registrar,15,Yes,1,3,Completed,No,
+REQ0317,Certification,Student,2025-10-11,Portal,Normal,Registrar,15,Yes,3,3,Completed,No,
+REQ0318,Scholarship Inquiry,Student,2026-01-25,Portal,Normal,Scholarship Office,4,Yes,,4,Cancelled,No,
+REQ0319,Certification,Student,2025-08-07,Portal,High,Registrar,22,Yes,3,3,Completed,No,1
+REQ0320,Clearance,Student,2025-08-07,Portal,Low,Student Affairs,9,No,,5,Cancelled,Yes,
+REQ0321,Clearance,Student,2025-12-28,Portal,Normal,Student Affairs,2,Yes,3,5,Completed,No,
+REQ0322,IT Support,Student,2025-06-15,Walk-in,Normal,ICT Office,27,Yes,3,2,Completed,No,
+REQ0323,Certification,Faculty,2025-09-04,Portal,Low,Registrar,5,Yes,1,3,Completed,No,3
+REQ0324,IT Support,Student,2025-09-18,Walk-in,Normal,ICT Office,0,Yes,1,2,Completed,No,
+REQ0325,Enrollment,Student,2025-12-09,Walk-in,High,Registrar,2,No,5,3,Completed,No,1
+REQ0326,Scholarship Inquiry,Student,2025-07-01,Portal,Normal,Scholarship Office,12,Yes,4,4,Completed,No,1
+REQ0327,Enrollment,Student,2025-09-13,Email,Normal,Registrar,2,Yes,1,3,Completed,Yes,
+REQ0328,IT Support,Student,2025-07-07,Walk-in,Normal,ICT Office,23,Yes,2,2,Completed,Yes,3
+REQ0329,Scholarship Inquiry,Faculty,2025-12-07,Email,Normal,Scholarship Office,14,Yes,6,4,Completed,No,2
+REQ0330,Certification,Faculty,2025-10-30,Portal,Normal,Registrar,9,Yes,3,3,Completed,No,
+REQ0331,Scholarship Inquiry,Student,2025-09-28,Portal,Normal,Scholarship Office,0,No,6,4,Completed,No,
+REQ0332,Records,Student,2025-09-03,Portal,Normal,Registrar,13,Yes,4,5,Completed,No,
+REQ0333,Scholarship Inquiry,Student,2025-07-07,Portal,Low,Scholarship Office,4,Yes,4,4,Completed,No,4
+REQ0334,Enrollment,Student,2026-01-08,Walk-in,Normal,Registrar,27,Yes,3,3,Completed,Yes,
+REQ0335,Records,Student,2025-11-03,Walk-in,Normal,Registrar,,Yes,4,5,Completed,No,4
+REQ0336,IT Support,Student,2025-08-16,Portal,Normal,ICT Office,13,No,4,2,Completed,No,5
+REQ0337,Records,Student,2025-09-08,Email,Low,Registrar,0,Yes,4,5,Completed,No,2
+REQ0338,Scholarship Inquiry,Staff,2025-11-22,Portal,Normal,Scholarship Office,3,Yes,2,4,Completed,No,
+REQ0339,Records,Student,2025-11-20,Walk-in,Normal,Registrar,5,Yes,3,5,Completed,No,
+REQ0340,Clearance,Student,2025-09-19,Portal,Low,Student Affairs,1,Yes,3,5,Completed,No,
+REQ0341,Records,Student,2025-08-12,Walk-in,Low,Registrar,20,No,10,5,Completed,No,
+REQ0342,Clearance,Student,2025-11-06,Walk-in,Normal,Student Affairs,26,Yes,4,5,Completed,No,2
+REQ0343,Enrollment,Student,2025-11-05,Portal,Normal,Registrar,27,Yes,4,3,Completed,No,2
+REQ0344,IT Support,Student,2025-10-22,Portal,Low,ICT Office,7,Yes,1,2,Completed,No,2
+REQ0345,Enrollment,Staff,2025-06-18,Walk-in,High,Registrar,22,Yes,,3,Cancelled,No,
+REQ0346,Enrollment,Student,2025-09-22,Portal,Normal,Registrar,,Yes,2,3,Completed,No,3
+REQ0347,Clearance,Student,2025-10-26,Portal,Normal,Student Affairs,1,Yes,3,5,Completed,No,
+REQ0348,Certification,Student,2026-01-15,Walk-in,Normal,Registrar,2,Yes,2,3,Completed,No,
+REQ0349,IT Support,Student,2025-10-05,Email,Normal,ICT Office,15,Yes,2,2,Completed,No,
+REQ0350,Records,Student,2025-08-22,Portal,Normal,Registrar,11,Yes,,5,Cancelled,No,
+REQ0351,IT Support,Student,2025-10-12,Portal,High,ICT Office,0,Yes,1,2,Completed,No,3
+REQ0352,Records,Student,2025-07-13,Portal,Normal,Registrar,26,Yes,7,5,Completed,No,2
+REQ0353,IT Support,Student,2025-06-22,Walk-in,Normal,ICT Office,20,Yes,,2,Cancelled,No,
+REQ0354,IT Support,Faculty,2025-11-10,Portal,Normal,ICT Office,14,Yes,3,2,Completed,No,1
+REQ0355,IT Support,Student,2026-01-23,Portal,Normal,ICT Office,27,Yes,1,2,Completed,No,5
+REQ0356,IT Support,Faculty,2025-12-21,Portal,Low,ICT Office,27,Yes,3,2,Completed,No,4
+REQ0357,Enrollment,Student,2025-10-19,Walk-in,Normal,Registrar,27,Yes,5,3,Completed,No,
+REQ0358,Enrollment,Student,2025-06-10,Portal,Normal,Registrar,7,Yes,1,3,Completed,No,3
+REQ0359,IT Support,Faculty,2026-01-24,Walk-in,High,ICT Office,24,Yes,2,2,Completed,No,3
+REQ0360,IT Support,Faculty,2025-09-16,Email,Normal,ICT Office,14,Yes,,2,Cancelled,No,
+REQ0361,Clearance,Student,2025-08-09,Walk-in,Normal,Student Affairs,20,No,,5,Cancelled,No,
+REQ0362,Records,Staff,2026-01-01,Walk-in,High,Registrar,24,Yes,7,5,Completed,No,4
+REQ0363,Records,Student,2025-11-27,Walk-in,Normal,Registrar,4,Yes,2,5,Completed,No,2
+REQ0364,Records,Student,2025-11-27,Walk-in,Low,Registrar,12,Yes,8,5,Completed,No,3
+REQ0365,Scholarship Inquiry,Staff,2025-08-06,Portal,Low,Scholarship Office,3,Yes,2,4,Completed,No,2
+REQ0366,Certification,Student,2026-01-25,Email,Low,Registrar,7,Yes,3,3,Completed,No,
+REQ0367,Enrollment,Faculty,2025-09-17,Portal,Low,Registrar,11,,5,3,Completed,No,1
+REQ0368,Scholarship Inquiry,Student,2025-10-06,Portal,Normal,Scholarship Office,23,Yes,4,4,Completed,No,2
+REQ0369,Certification,Faculty,2025-11-28,Walk-in,Normal,Registrar,24,Yes,4,3,Completed,No,3
+REQ0370,Clearance,Student,2025-11-06,Walk-in,Normal,Student Affairs,10,Yes,5,5,Completed,No,3
+REQ0371,Enrollment,Student,2025-07-12,Email,Low,Registrar,9,Yes,3,3,Completed,No,4
+REQ0372,Certification,Student,2025-08-12,Portal,Normal,Registrar,14,No,4,3,Completed,No,
+REQ0373,Certification,Student,2025-08-26,Portal,Low,Registrar,25,Yes,5,3,Completed,No,3
+REQ0374,Certification,Student,2026-01-14,Portal,High,Registrar,27,Yes,3,3,Completed,No,
+REQ0375,Records,Student,2025-11-19,Portal,Low,Registrar,6,Yes,,5,Pending,No,
+REQ0376,Records,Student,2025-08-27,Portal,Normal,Registrar,5,Yes,5,5,Completed,No,1
+REQ0377,Clearance,Student,2025-11-24,Portal,Normal,Student Affairs,19,Yes,,5,Pending,No,
+REQ0378,Certification,Student,2025-11-25,Portal,Normal,Registrar,8,Yes,3,3,Completed,No,4
+REQ0379,Certification,Student,2025-09-03,Email,Normal,Registrar,5,Yes,1,3,Completed,No,4
+REQ0380,Scholarship Inquiry,Student,2025-09-05,Portal,Normal,Scholarship Office,0,No,,4,Cancelled,No,
+REQ0381,IT Support,Student,2026-01-01,Walk-in,Low,ICT Office,11,Yes,1,2,Completed,No,
+REQ0382,Clearance,Student,2025-10-13,Email,High,Student Affairs,10,Yes,2,5,Completed,No,
+REQ0383,Enrollment,Faculty,2025-07-06,Portal,Normal,Registrar,15,,4,3,Completed,No,3
+REQ0384,IT Support,Student,2025-11-20,Portal,Normal,ICT Office,5,Yes,3,2,Completed,No,
+REQ0385,Certification,Student,2025-10-20,Portal,High,Registrar,20,No,4,3,Completed,No,3
+REQ0386,Clearance,Student,2025-10-01,Walk-in,High,Student Affairs,19,Yes,6,5,Completed,No,
+REQ0387,Scholarship Inquiry,Student,2025-11-22,Portal,Low,Scholarship Office,12,Yes,,4,Pending,No,
+REQ0388,Clearance,Student,2026-01-04,Portal,Normal,Student Affairs,5,No,6,5,Completed,No,
+REQ0389,Records,Student,2025-08-19,Walk-in,Normal,Registrar,14,Yes,4,5,Completed,No,
+REQ0390,Enrollment,Staff,2025-09-09,Walk-in,Normal,Registrar,18,Yes,5,3,Completed,No,
+REQ0391,Scholarship Inquiry,Student,2025-07-16,Portal,Normal,Scholarship Office,10,No,,4,Pending,No,
+REQ0392,Records,Student,2025-11-03,Portal,High,Registrar,7,Yes,3,5,Completed,No,
+REQ0393,IT Support,Staff,2025-09-05,Portal,High,ICT Office,14,Yes,1,2,Completed,No,3
+REQ0394,Scholarship Inquiry,Student,2025-08-22,Portal,Normal,Scholarship Office,9,No,5,4,Completed,Yes,
+REQ0395,Records,Student,2025-11-15,Portal,Normal,Registrar,11,No,5,5,Completed,No,
+REQ0396,IT Support,Faculty,2025-09-06,Email,High,ICT Office,9,Yes,2,2,Completed,No,5
+REQ0397,Enrollment,Faculty,2025-09-20,Walk-in,High,Registrar,8,Yes,1,3,Completed,No,4
+REQ0398,Certification,Student,2025-09-14,Portal,Low,Registrar,20,Yes,7,3,Completed,No,1
+REQ0399,IT Support,Student,2025-08-02,Email,Normal,ICT Office,12,No,1,2,Completed,No,3
+REQ0400,IT Support,Student,2025-07-01,Portal,High,ICT Office,13,Yes,1,2,Completed,No,2
+REQ0401,Certification,Student,2025-12-16,Walk-in,Normal,Registrar,18,Yes,4,3,Completed,No,
+REQ0402,Clearance,Student,2025-06-23,Email,Normal,Student Affairs,10,Yes,6,5,Completed,No,1
+REQ0403,Enrollment,Student,2025-08-17,Walk-in,High,Registrar,2,No,3,3,Completed,No,
+REQ0404,Records,Student,2025-11-08,Walk-in,High,Registrar,23,No,8,5,Completed,No,4
+REQ0405,Clearance,Faculty,2025-07-02,Portal,High,Student Affairs,1,Yes,1,5,Completed,No,2
+REQ0406,Enrollment,Student,2025-11-05,Portal,Normal,Registrar,16,Yes,2,3,Completed,No,1
+REQ0407,Certification,Student,2025-11-23,Portal,Normal,Registrar,7,No,2,3,Completed,No,
+REQ0408,Enrollment,Student,2025-11-07,Portal,Normal,Registrar,5,No,1,3,Completed,No,2
+REQ0409,Records,Faculty,2025-08-13,Walk-in,Normal,Registrar,1,Yes,4,5,Completed,No,5
+REQ0410,Clearance,Student,2025-06-05,Portal,Normal,Student Affairs,25,Yes,3,5,Completed,No,4
+REQ0411,Scholarship Inquiry,Student,2025-12-30,Email,Normal,Scholarship Office,12,Yes,3,4,Completed,No,
+REQ0412,Scholarship Inquiry,Student,2025-08-18,Portal,Normal,Scholarship Office,9,Yes,3,4,Completed,No,3
+REQ0413,Records,Student,2025-12-11,Portal,Normal,Registrar,20,Yes,4,5,Completed,No,
+REQ0414,Clearance,Student,2025-07-18,Portal,Normal,Student Affairs,1,Yes,4,5,Completed,No,
+REQ0415,Records,Student,2025-07-09,Email,Normal,Registrar,15,Yes,5,5,Completed,No,
+REQ0416,Certification,Student,2025-12-04,Email,Normal,Registrar,13,No,5,3,Completed,No,1
+REQ0417,Records,Faculty,2026-01-12,Portal,Low,Registrar,15,Yes,5,5,Completed,No,4
+REQ0418,Enrollment,Staff,2025-12-24,Portal,Low,Registrar,3,Yes,3,3,Completed,No,3
+REQ0419,Records,Student,2025-11-28,Portal,High,Registrar,26,Yes,5,5,Completed,No,2
+REQ0420,Clearance,Student,2025-07-30,Portal,Normal,Student Affairs,6,Yes,,5,Pending,No,
